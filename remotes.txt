@@ -1,0 +1,6 @@
+instructor	https://github.com/Partnrnetwork/git-mastery-challenge-template.git (fetch)
+instructor	https://github.com/Partnrnetwork/git-mastery-challenge-template.git (push)
+my-remote	https://github.com/sarayu1201/DevOpsSimulator.git (fetch)
+my-remote	https://github.com/sarayu1201/DevOpsSimulator.git (push)
+origin	https://github.com/sarayu1201/DevOpsSimulator.git (fetch)
+origin	https://github.com/sarayu1201/DevOpsSimulator.git (push)
